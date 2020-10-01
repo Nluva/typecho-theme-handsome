@@ -432,7 +432,7 @@ input[type=text], textarea {
     $form->addInput($BlogName);
 
     //博主头像：在本主题中首页index.php 和 aboutme.php中将会调用此头像
-    $BlogPic = new Typecho_Widget_Helper_Form_Element_Text('BlogPic', NULL, 'https://storage.googleapis.com/cy-bucket/CY.jpg', _t('头像图片地址'), _t('logo头像地址，尺寸在200X200左右即可'));
+    $BlogPic = new Typecho_Widget_Helper_Form_Element_Text('BlogPic', NULL, '/img/CY.jpg', _t('头像图片地址'), _t('logo头像地址，尺寸在200X200左右即可'));
     $form->addInput($BlogPic);
 
     //博主职业
@@ -521,7 +521,7 @@ input[type=text], textarea {
     gravatar由于国内被墙，推荐使用https://secure.gravatar.com镜像源。你可以使用你自己的镜像源(末尾不要加斜杠！！！)"));
     $form->addInput($CDNURL);
     //时光机页面的头图
-    $timepic = new Typecho_Widget_Helper_Form_Element_Text('timepic', NULL, 'https://storage.googleapis.com/cy-bucket/handsome-1.jpg', _t('时光机页面的头图'), _t("填写图片地址，在时光机页面cross.html独立页面的头图，图片大小切勿过大，控制在100K左右为佳。"));
+    $timepic = new Typecho_Widget_Helper_Form_Element_Text('timepic', NULL, '/img/handsome-1.jpg', _t('时光机页面的头图'), _t("填写图片地址，在时光机页面cross.html独立页面的头图，图片大小切勿过大，控制在100K左右为佳。"));
     $form->addInput($timepic);
 
     //加载进度条颜色
