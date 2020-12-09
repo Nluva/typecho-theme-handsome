@@ -51,3 +51,8 @@ All kinds of contributions (enhancements, new features, documentation & code imp
 ## License
 
 Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
+
+## License
+
+<a href="https://cyrilwong.mit-license.org/"><img src="https://img.shields.io/github/license/ikym/mit-license?style=flat-square.svg" alt="License"></a></br>
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
