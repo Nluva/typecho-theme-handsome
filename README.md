@@ -50,4 +50,4 @@ All kinds of contributions (enhancements, new features, documentation & code imp
 
 ## License
 
-Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://cyrilwong.mit-license.org/) license.
