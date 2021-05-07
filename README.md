@@ -2,7 +2,7 @@
 
 > 如少年般，迎风而立
 
-[**☞ Live Preview**](https://t.hey.ink/)  |  [**✎ 中文版使用文档**](https://handsome.ihewro.com/)
+[**☞ Live Preview**](https://ihewro.com/)  |  [**✎ 中文版使用文档**](https://handsome.ihewro.com/)
 
 ![handsome](https://www.ihewro.com/usr/uploads/2017/04/808204957.png)
 
